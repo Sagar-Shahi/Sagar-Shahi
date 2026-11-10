@@ -1,116 +1,155 @@
+
 <div align="center">
 
-# Sagar Shahi
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=SAGAR%20SHAHI&fontSize=55&fontColor=E6EDF3&fontAlignY=45&desc=CURIOUS%20MIND%20%7C%20FUTURE%20BUILDER&descSize=13&descAlignY=70&animation=fadeIn" />
 
-### Computer Engineering Student | Aspiring Developer
+### Curiosity into Creation.
 
-<p>
-  Learning · Building · Improving
-</p>
+Exploring ideas, understanding systems, and building towards something meaningful.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:A78BFA&height=180&section=header&text=SAGAR%20SHAHI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sagar--Shahi-181717?style=for-the-badge&logo=github)](https://github.com/Sagar-Shahi)
-[![Profile Views](https://komarev.com/ghpvc/?username=Sagar-Shahi&style=for-the-badge&color=7C3AED)](https://github.com/Sagar-Shahi)
+[![GitHub](https://img.shields.io/badge/GitHub-Sagar--Shahi-161B22?style=flat-square&logo=github)](https://github.com/Sagar-Shahi)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sagar-Shahi&style=flat-square&color=8B7CF6)](https://github.com/Sagar-Shahi)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 01. About Me
 
-Hey! I'm **Sagar Shahi**, a Computer Engineering student from Nepal.
+I'm **Sagar Shahi**, a Computer Engineering student from Nepal.
 
-I'm interested in technology, programming, software development, and understanding how things work behind the screen.
+I'm someone who is naturally curious about the world, how things work, why they work, and what could be created from understanding them.
 
-I'm currently focused on strengthening my programming fundamentals and developing the skills needed to build useful software.
+My interests go beyond just computers. I'm fascinated by nature, aesthetics, robotics, technology, human personality, and the process of learning itself.
 
-I believe in learning through experimentation, solving problems, and building things from scratch.
+I enjoy observing things, thinking about possibilities, exploring ideas, and imagining how they could become reality.
 
-### A little about me
+I don't want to limit myself to simply using technology. I want to understand it deeply and eventually create something of my own that has real meaning and impact.
 
-- 🎓 Computer Engineering student
-- 📍 Nepal
-- 💻 Interested in software and technology
-- 🌱 Currently strengthening my programming fundamentals
-- 🧠 Always curious about how things work
-- 🚀 Working towards becoming a better developer
+I'm still learning, experimenting, and figuring things out. That's part of the journey.
 
----
+## 02. The Vision
 
-## 🎯 My Goals
+I have a simple but ambitious goal:
 
-- Build a strong foundation in programming.
-- Improve logical thinking and problem-solving.
-- Learn modern development technologies.
-- Understand software development workflows.
-- Build meaningful projects.
-- Become an independent and capable developer.
+### I want to create something big.
 
----
+Not just for the sake of building something impressive, but something meaningful. Something that begins as an idea, develops through curiosity and experimentation, and eventually becomes reality.
 
-## 🧰 Technologies & Tools
+I'm interested in the space where imagination, engineering, creativity, and technology meet.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,git,github,vscode&theme=dark" />
-</p>
+I don't have everything figured out yet. But I know the direction I want to explore.
 
-*My technical skills and tools will evolve as I gain practical experience.*
+**Think beyond what's already built. Understand how it works. Imagine what could be better. Then build it.**
 
----
+## 03. Areas of Interest
 
-## 🚀 Projects
+Things that naturally catch my attention:
 
-I'm starting with a clean slate.
+| Interest | What fascinates me |
+|---|---|
+| 🌿 Nature | The complexity, patterns and beauty of the natural world |
+| 🤖 Robotics | Machines, intelligence, automation and engineering |
+| 💻 Technology | Understanding systems and creating useful things |
+| 🎨 Aesthetics | Design, visual harmony and thoughtful simplicity |
+| 🧠 Human Psychology | Personality, behaviour and how people think |
+| 🔬 Exploration | Learning, questioning and understanding the unknown |
 
-This section will showcase projects I build, ideas I experiment with, and things I learn along the way.
+## 04. My Approach
 
-**Currently: Building my foundation. More projects coming soon.**
+I believe curiosity is one of the most valuable qualities a person can develop.
 
----
+- **Observe:** Pay attention to things others might overlook.
+- **Question:** Don't accept everything without understanding it.
+- **Explore:** Follow interesting ideas and discover new possibilities.
+- **Experiment:** Turn thoughts into practical attempts.
+- **Create:** Build something that didn't exist before.
+- **Improve:** Keep learning and refining the process.
 
-## 📚 Currently Learning
+I value understanding over memorisation, creativity over imitation, and progress over perfection.
 
-- Programming fundamentals
-- Problem-solving
-- Web development
-- Git and GitHub
-- Software development concepts
+## 05. Technology & Engineering
 
----
+My academic background is in Computer Engineering.
 
-## 📊 GitHub Statistics
+I'm currently developing my programming fundamentals and exploring the wider world of engineering and software development.
+
+Areas I want to explore further:
+
+- Programming and software engineering
+- Robotics and automation
+- Artificial intelligence
+- Hardware and software integration
+- Web technologies
+- Problem-solving and system design
+
+I'm interested in understanding how different technologies connect and how they can be used to solve real problems.
+
+## 06. Current Learning Journey
+
+I'm building my foundation step by step.
+
+- [ ] Strengthen programming fundamentals.
+- [ ] Improve logical thinking and problem-solving.
+- [ ] Understand computer systems more deeply.
+- [ ] Explore robotics and automation.
+- [ ] Learn more about software architecture.
+- [ ] Experiment with practical engineering projects.
+- [ ] Turn personal ideas into working creations.
+
+This list will evolve as I discover new interests and develop new skills.
+
+## 07. Projects & Experiments
+
+**Currently building my foundation.**
+
+I want this section to represent things I've genuinely created, explored, and learned from.
+
+Rather than filling my GitHub with projects just to make it look active, I'll add work that demonstrates actual progress.
+
+Future projects will reflect my interests in technology, engineering, creativity, and problem-solving.
+
+## 08. GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sagar-Shahi&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sagar-Shahi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Shahi&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Shahi&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=Sagar-Shahi&theme=tokyonight&hide_border=true" />
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Sagar-Shahi&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
+
+## 09. Beyond Technology
+
+Not everything worth exploring exists inside a computer.
+
+I appreciate nature, thoughtful design, beautiful environments, and the little details that make ordinary things interesting.
+
+I'm fascinated by the relationship between observation, imagination, and creation.
+
+Sometimes the best ideas begin by simply paying attention.
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
-<a href="https://github.com/Sagar-Shahi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### THINK DEEPLY. EXPLORE FEARLESSLY. CREATE MEANINGFULLY.
+
+*The goal isn't to know everything. It's to never stop discovering.*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/Explore_my_GitHub-161B22?style=for-the-badge&logo=github)](https://github.com/Sagar-Shahi)
+
+<br/>
+
+<sub>© Sagar Shahi · Built with curiosity.</sub>
 
 </div>
 
----
-
-<div align="center">
-
-### DREAM. CODE. BUILD.
-
-*Progress over perfection.*
-
-**Thanks for visiting my profile!**
-
-</div>

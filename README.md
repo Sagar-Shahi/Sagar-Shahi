@@ -143,6 +143,16 @@ Some of the most interesting things begin when you step away from the screen and
 
 <br/>
 
+<div align="center">
+
+### `08 / CONTRIBUTION JOURNEY`
+
+<img src="https://raw.githubusercontent.com/Sagar-Shahi/Sagar-Shahi/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:536DFE,50:25204A,100:09090F&height=110&section=footer" width="100%" />
 
 </div>

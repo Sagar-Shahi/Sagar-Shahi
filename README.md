@@ -97,7 +97,12 @@ I believe progress is built through small experiments, not impressive-sounding t
 
 </div>
 
-<!-- Add your real repositories here as you build them. -->
+| Project | What it is | Stack |
+|:--|:--|:--|
+| [**LinkPulse**](https://github.com/Sagar-Shahi/linkpulse) | Campaign link tracking with short links, click analytics, privacy by design and a REST API. 189 tests. | Python, Django 5.2, Django REST Framework |
+| [**Fitness Hub**](https://github.com/Sagar-Shahi/fitness-hub) | Private fitness tracker with a plan shop (demo checkout), dashboard charts and a REST API. 158 tests. | Python, Django 5.2, Django REST Framework |
+
+**Portfolio:** [sagar-shahi.github.io](https://sagar-shahi.github.io/)
 
 <div align="center">
 

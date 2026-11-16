@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090F,45:25204A,100:536DFE&text=SAGAR%20SHAHI&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Curiosity%20into%20Creation&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=9B9BFF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Curious+Mind.+Creative+Thinking.;Exploring+Technology+%26+Robotics;Learning+to+Build+Something+Meaningful." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=9B9BFF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Python+%26+Django+Developer;Curious+Mind.+Creative+Thinking.;Exploring+Technology+%26+Robotics;Learning+to+Build+Something+Meaningful." alt="Typing animation" />
 
 <br/>
 
@@ -28,7 +28,10 @@ I don't want to simply learn how to use technology.
 
 **I want to understand it, experiment with it, and eventually create something meaningful with it.**
 
-- Currently exploring the world of programming and engineering.
+- Computer engineering student in Kathmandu who builds backend-focused web software with **Python and Django**.
+- Completed a **two-year on-the-job training** in Python with Django at Shivapuri Secondary College.
+- Built two Django projects on my own, with REST APIs and **347 automated tests**: [LinkPulse](https://github.com/Sagar-Shahi/linkpulse) and [Fitness Hub](https://github.com/Sagar-Shahi/fitness-hub).
+- **Open to internships, jobs and freelance work.** Email: Sagarshahi865@gmail.com · [LinkedIn](https://www.linkedin.com/in/sagar-shahi-570003435)
 - Interested in robotics, automation, and emerging technologies.
 - Fascinated by nature, design, creativity, and human thinking.
 - Believer in curiosity, experimentation, and continuous improvement.
@@ -78,6 +81,9 @@ I don't want to simply learn how to use technology.
 
 I believe progress is built through small experiments, not impressive-sounding titles.
 
+- [x] Complete a two-year Python and Django on-the-job training.
+- [x] Build and test two Django projects with REST APIs.
+- [ ] Deploy both projects with live demos.
 - [ ] Strengthen programming fundamentals.
 - [ ] Build confidence with problem-solving.
 - [ ] Explore hardware and software integration.

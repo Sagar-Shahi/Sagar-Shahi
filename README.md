@@ -30,7 +30,7 @@ I don't want to simply learn how to use technology.
 
 - Computer engineering student in Kathmandu who builds backend-focused web software with **Python and Django**.
 - Completed a **two-year on-the-job training** in Python with Django at Shivapuri Secondary College.
-- Built two Django projects on my own, with REST APIs and **415 automated tests**: [LinkPulse](https://github.com/Sagar-Shahi/linkpulse) and [Fitness Hub](https://github.com/Sagar-Shahi/fitness-hub).
+- Built and deployed two Django projects (with AI assistance), with REST APIs and **415 automated tests**: [LinkPulse](https://github.com/Sagar-Shahi/linkpulse) and [Fitness Hub](https://github.com/Sagar-Shahi/fitness-hub).
 - **Open to internships, jobs and freelance work.** Email: Sagarshahi865@gmail.com · [LinkedIn](https://www.linkedin.com/in/sagar-shahi-570003435)
 - Interested in robotics, automation, and emerging technologies.
 - Fascinated by nature, design, creativity, and human thinking.

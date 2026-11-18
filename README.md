@@ -30,7 +30,7 @@ I don't want to simply learn how to use technology.
 
 - Computer engineering student in Kathmandu who builds backend-focused web software with **Python and Django**.
 - Completed a **two-year on-the-job training** in Python with Django at Shivapuri Secondary College.
-- Built two Django projects on my own, with REST APIs and **359 automated tests**: [LinkPulse](https://github.com/Sagar-Shahi/linkpulse) and [Fitness Hub](https://github.com/Sagar-Shahi/fitness-hub).
+- Built two Django projects on my own, with REST APIs and **415 automated tests**: [LinkPulse](https://github.com/Sagar-Shahi/linkpulse) and [Fitness Hub](https://github.com/Sagar-Shahi/fitness-hub).
 - **Open to internships, jobs and freelance work.** Email: Sagarshahi865@gmail.com · [LinkedIn](https://www.linkedin.com/in/sagar-shahi-570003435)
 - Interested in robotics, automation, and emerging technologies.
 - Fascinated by nature, design, creativity, and human thinking.
@@ -105,7 +105,7 @@ I believe progress is built through small experiments, not impressive-sounding t
 
 | Project | What it is | Stack |
 |:--|:--|:--|
-| [**LinkPulse**](https://github.com/Sagar-Shahi/linkpulse) ([live demo](https://linkpulse-xy0s.onrender.com)) | Campaign link tracking with short links, click analytics, privacy by design and a REST API. 197 tests. | Python, Django 5.2, Django REST Framework |
+| [**LinkPulse**](https://github.com/Sagar-Shahi/linkpulse) ([live demo](https://linkpulse-xy0s.onrender.com)) | Campaign link tracking with short links, click analytics, privacy by design and a REST API, campaign comparison, QR codes and a destination check. 253 tests. | Python, Django 5.2, Django REST Framework |
 | [**Fitness Hub**](https://github.com/Sagar-Shahi/fitness-hub) ([live demo](https://fitness-hub-tz2k.onrender.com)) | Private fitness tracker with a plan shop (demo checkout), dashboard charts and a REST API. 162 tests. | Python, Django 5.2, Django REST Framework |
 
 **Portfolio:** [sagar-shahi.github.io](https://sagar-shahi.github.io/)
